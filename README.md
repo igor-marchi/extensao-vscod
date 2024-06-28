@@ -1,71 +1,39 @@
-# demo README
+# Minha Extensão Incrível para VS Code
 
-This is the README for your extension "demo". After writing up a brief description, we recommend including the following sections.
+## Descrição
 
-## Features
+Minha Extensão Incrível adiciona funcionalidades avançadas para trabalhar com HTML no Visual Studio Code.
 
-Describe specific features of your extension including screenshots of your extension in action. Image paths are relative to this README file.
+## Instalação
 
-For example if there is an image subfolder under your extension project workspace:
+Para instalar a extensão, siga estas etapas:
 
-\!\[feature X\]\(images/feature-x.png\)
+1. Abra o VS Code.
+2. Vá para a barra lateral e clique em "Extensions" (Ctrl+Shift+X).
+3. Pesquise por "Minha Extensão Incrível".
+4. Clique em "Install" para instalar a extensão.
 
-> Tip: Many popular extensions utilize animations. This is an excellent way to show off your extension! We recommend short, focused animations that are easy to follow.
+## Uso
 
-## Requirements
+Para usar a extensão, siga estes passos simples:
 
-If you have any requirements or dependencies, add a section describing those and how to install and configure them.
+1. Abra um arquivo HTML no VS Code.
+2. Use o autocomplete para tags HTML personalizadas e seus atributos.
 
-## Extension Settings
+## Configuração
 
-Include if your extension adds any VS Code settings through the `contributes.configuration` extension point.
+Não há configuração adicional necessária. A extensão funciona automaticamente.
 
-For example:
+## Comandos Disponíveis
 
-This extension contributes the following settings:
+- `atlas:helloWorld`: Exibe uma mensagem de boas-vindas.
 
-* `myExtension.enable`: Enable/disable this extension.
-* `myExtension.thing`: Set to `blah` to do something.
+## Perguntas Frequentes
 
-## Known Issues
+### Como adiciono novas tags personalizadas?
 
-Calling out known issues can help limit users opening duplicate issues against your extension.
+Para adicionar novas tags personalizadas, edite o arquivo `tags.ts` conforme documentado na extensão.
 
-## Release Notes
+## Documentação Adicional
 
-Users appreciate release notes as you update your extension.
-
-### 1.0.0
-
-Initial release of ...
-
-### 1.0.1
-
-Fixed issue #.
-
-### 1.1.0
-
-Added features X, Y, and Z.
-
----
-
-## Following extension guidelines
-
-Ensure that you've read through the extensions guidelines and follow the best practices for creating your extension.
-
-* [Extension Guidelines](https://code.visualstudio.com/api/references/extension-guidelines)
-
-## Working with Markdown
-
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
-
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
-
-## For more information
-
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
+Para mais informações, visite [a documentação completa da Minha Extensão Incrível](https://link-para-documentacao.com).

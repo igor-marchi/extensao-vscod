@@ -1,5 +1,6 @@
 {
-  "name": "demo",
+  "name": "atlas-demo",
+  "publisher": "igor-marchi",
   "displayName": "atlas-demo",
   "description": "atlas demo",
   "version": "0.0.1",
